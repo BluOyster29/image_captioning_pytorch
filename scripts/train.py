@@ -50,7 +50,7 @@ def train(train_dataloader, args, vocab):
 
     encoder_model.train()
     decoder_model.train()
-
+    vocab_size = len(vocab)
     num = 1
     num_epochs = 10
 
