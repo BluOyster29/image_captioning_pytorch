@@ -1,0 +1,955 @@
+id,captions
+test_set/images/1.jpg,allegory
+test_set/images/2.jpg,"bacchus, ceres and cupid"
+test_set/images/3.jpg,joking couple
+test_set/images/4.jpg,portrait of emperor rudolf ii
+test_set/images/5.jpg,self-portrait with a glass of wine
+test_set/images/6.jpg,deer beside a lake
+test_set/images/7.jpg,the rose garden
+test_set/images/8.jpg,the archangel michael
+test_set/images/9.jpg,albarello
+test_set/images/10.jpg,ceramic floor
+test_set/images/11.jpg,ceramic floor
+test_set/images/12.jpg,the flood
+test_set/images/13.jpg,chimney breast
+test_set/images/14.jpg,chimney breast
+test_set/images/15.jpg,stag hunt
+test_set/images/16.jpg,orpheus and eurydice
+test_set/images/17.jpg,the rape of proserpine
+test_set/images/18.jpg,the continence of scipio
+test_set/images/19.jpg,landscape at castiglioncello
+test_set/images/20.jpg,country road with cypresses
+test_set/images/21.jpg,cloister
+test_set/images/22.jpg,portrait of a woman
+test_set/images/23.jpg,gian lorenzo bernini's cornaro chapel
+test_set/images/24.jpg,medal commemorating charles ii embarkation at scheveningen
+test_set/images/25.jpg,commemorative medal for admiral maarten harpertszoon tromp
+test_set/images/26.jpg,"william iii, prince of orange, at the age of four"
+test_set/images/27.jpg,culmin's ghost appears to his mother
+test_set/images/28.jpg,adam and eve
+test_set/images/29.jpg,medallion portrait of emperor maximilian ii
+test_set/images/30.jpg,fireworks in naples
+test_set/images/31.jpg,battle of moscow on 7 september 1812
+test_set/images/32.jpg,the return from the hunt
+test_set/images/41.jpg,prometheus
+test_set/images/43.jpg,monumental vase on the theme of autumn
+test_set/images/44.jpg,monumental vase on the theme of autumn (detail)
+test_set/images/45.jpg,monumental vase on the theme of autumn (detail)
+test_set/images/46.jpg,exterior view
+test_set/images/47.jpg,interior view
+test_set/images/48.jpg,interior view
+test_set/images/49.jpg,interior view
+test_set/images/50.jpg,bust of isaac péreire
+test_set/images/51.jpg,view of the room of the ark
+test_set/images/52.jpg,view of the room of the ark
+test_set/images/53.jpg,the menorah
+test_set/images/54.jpg,transportation of the ark of the covenant containing the tablets of the law
+test_set/images/55.jpg,view of the palatine chapel
+test_set/images/56.jpg,episodes in roman history
+test_set/images/57.jpg,episodes in roman history
+test_set/images/58.jpg,episodes in roman history
+test_set/images/59.jpg,fresco decoration (detail)
+test_set/images/60.jpg,fresco decoration (detail)
+test_set/images/61.jpg,fresco decoration (detail)
+test_set/images/62.jpg,self-portrait
+test_set/images/63.jpg,commemorative medal for admiral michiel adriaensz. de ruyter
+test_set/images/64.jpg,fish and dead game
+test_set/images/65.jpg,still-life with fish
+test_set/images/66.jpg,still-life with flowers in a glass vase
+test_set/images/67.jpg,still-life
+test_set/images/68.jpg,still-life with oysters
+test_set/images/69.jpg,"elector frederick iii of saxony, called frederick the wise"
+test_set/images/70.jpg,medal of ferdinand ii
+test_set/images/71.jpg,giovanni gioviano pontano
+test_set/images/72.jpg,giovanni gioviano pontano
+test_set/images/73.jpg,giovanni gioviano pontano
+test_set/images/74.jpg,venus
+test_set/images/75.jpg,breakfast piece
+test_set/images/76.jpg,still-life with hunting equipment and dead birds
+test_set/images/77.jpg,hunting still-life
+test_set/images/78.jpg,hunting still-life (detail)
+test_set/images/79.jpg,still-life of fruit
+test_set/images/80.jpg,still-life with a basket of fruit on a marble ledge
+test_set/images/81.jpg,still-life
+test_set/images/82.jpg,still-life with fruit
+test_set/images/83.jpg,still-life with fruit and crystal vase
+test_set/images/84.jpg,still-life
+test_set/images/85.jpg,still-life with fruit
+test_set/images/86.jpg,still-life
+test_set/images/87.jpg,flower still-life
+test_set/images/88.jpg,fruit still-life
+test_set/images/89.jpg,"still-life with fruit, parrot, and nautilus pitcher"
+test_set/images/90.jpg,still-life with peaches and plums
+test_set/images/91.jpg,still-life with mouse and candle
+test_set/images/92.jpg,still-life with fruit and a crystal vase
+test_set/images/93.jpg,vase of flowers with pocket watch
+test_set/images/94.jpg,still-life of dead birds and hunting weapons
+test_set/images/96.jpg,fruit
+test_set/images/97.jpg,susanna and the elders
+test_set/images/98.jpg,apostles peter and john
+test_set/images/99.jpg,christ and the adulteress
+test_set/images/100.jpg,christ and the adulteress
+test_set/images/101.jpg,cook in front of the stove
+test_set/images/102.jpg,the cook
+test_set/images/103.jpg,the egg dance
+test_set/images/104.jpg,market scene
+test_set/images/105.jpg,market scene (detail)
+test_set/images/106.jpg,market scene
+test_set/images/107.jpg,market scene
+test_set/images/108.jpg,market scene
+test_set/images/109.jpg,market woman with vegetable stall
+test_set/images/110.jpg,butcher's stall
+test_set/images/111.jpg,peasants by the hearth
+test_set/images/112.jpg,still-life
+test_set/images/113.jpg,triptych with the adoration of the magi (central panel)
+test_set/images/114.jpg,left wing of a triptych with the adoration of the magi
+test_set/images/115.jpg,left wing of a triptych with the adoration of the magi (reverse side)
+test_set/images/116.jpg,vendor of fowl
+test_set/images/117.jpg,study of dogs
+test_set/images/118.jpg,a gentleman with horses by a stream
+test_set/images/119.jpg,portrait of a horse
+test_set/images/120.jpg,the playground
+test_set/images/121.jpg,two terriers by a mossy bank
+test_set/images/122.jpg,mary magdalene
+test_set/images/123.jpg,monument to bishop guido tarlati
+test_set/images/124.jpg,monument to bishop guido tarlati (detail)
+test_set/images/125.jpg,monument to bishop guido tarlati (detail)
+test_set/images/126.jpg,monument to bishop guido tarlati (detail)
+test_set/images/127.jpg,monument to bishop guido tarlati (detail)
+test_set/images/128.jpg,st bridget of sweden receiving the rule of her order
+test_set/images/129.jpg,st bridget of sweden receiving the rule of her order (detail)
+test_set/images/130.jpg,st bridget of sweden receiving the rule of her order (detail)
+test_set/images/132.jpg,the angel gabriel
+test_set/images/133.jpg,virgin and child
+test_set/images/134.jpg,madonna (detail)
+test_set/images/136.jpg,angels playing a viola
+test_set/images/137.jpg,angels playing a lute and tambourine
+test_set/images/138.jpg,angels playing a lute and tambourine (detail)
+test_set/images/139.jpg,tempio malatestiano: interior
+test_set/images/140.jpg,musician angels
+test_set/images/142.jpg,the moon
+test_set/images/143.jpg,the moon
+test_set/images/144.jpg,saturn
+test_set/images/145.jpg,philosophy
+test_set/images/147.jpg,oratorio di san bernardino: façade
+test_set/images/150.jpg,monument to bishop guido tarlati
+test_set/images/151.jpg,monument to bishop guido tarlati
+test_set/images/152.jpg,monument to bishop guido tarlati
+test_set/images/153.jpg,sepulchral monument to sforzino sforza
+test_set/images/154.jpg,the ninth wave
+test_set/images/155.jpg,a strong wind
+test_set/images/156.jpg,shipwreck
+test_set/images/157.jpg,ship in the stormy sea
+test_set/images/158.jpg,the van aken brothers
+test_set/images/159.jpg,a sporting conversation piece
+test_set/images/160.jpg,a vegetable seller and his son
+test_set/images/161.jpg,vegetable and fruit market
+test_set/images/162.jpg,the virgin cardiotissa
+test_set/images/163.jpg,the congregation of the archangels
+test_set/images/164.jpg,figure of a saint
+test_set/images/165.jpg,spring (venus at her toilet)
+test_set/images/166.jpg,spring (detail)
+test_set/images/167.jpg,summer (venus in vulcan's forge)
+test_set/images/168.jpg,autumn (venus and adonis)
+test_set/images/169.jpg,winter (the triumph of diana)
+test_set/images/170.jpg,ceiling vault of piano nobile loggia
+test_set/images/171.jpg,ceiling painting
+test_set/images/172.jpg,adonis led by cupids to venus (detail)
+test_set/images/173.jpg,the annunciation
+test_set/images/174.jpg,diana and actaeon
+test_set/images/175.jpg,diana and actaeon
+test_set/images/176.jpg,the holy family
+test_set/images/177.jpg,the holy family in a landscape
+test_set/images/178.jpg,holy family
+test_set/images/179.jpg,venus attended by nymphs and cupids
+test_set/images/180.jpg,the toilet of venus
+test_set/images/181.jpg,toilet of venus
+test_set/images/182.jpg,the cupids disarmed
+test_set/images/183.jpg,the phaethon legend
+test_set/images/184.jpg,the phaethon legend: fall of phaethon and olympian gods
+test_set/images/185.jpg,the phaethon legend: neptune taming horses
+test_set/images/186.jpg,"the phaethon legend: river gods eridanus, heliades, and cycnus"
+test_set/images/187.jpg,the phaethon legend: venus at her toilet
+test_set/images/188.jpg,the phaethon legend: lamenting mother earth
+test_set/images/189.jpg,the phaethon legend: galatea on a dolphin
+test_set/images/190.jpg,"the phaethon legend: river gods eridanus, heliades, and cycnus (detail)"
+test_set/images/191.jpg,mercury
+test_set/images/192.jpg,polyptych of the apocalypse
+test_set/images/193.jpg,polyptych of the apocalypse (central panel)
+test_set/images/194.jpg,the harvest of the world
+test_set/images/195.jpg,triptych
+test_set/images/196.jpg,st john fresco cycle
+test_set/images/197.jpg,fame
+test_set/images/199.jpg,madonna and child in glory with angels
+test_set/images/200.jpg,the cardinal virtues
+test_set/images/201.jpg,ceiling decoration
+test_set/images/202.jpg,sant'andrea: façade
+test_set/images/203.jpg,sant'andrea: façade
+test_set/images/204.jpg,sant'andrea: interior
+test_set/images/205.jpg,sant'andrea: interior
+test_set/images/206.jpg,façade
+test_set/images/207.jpg,exterior view
+test_set/images/208.jpg,exterior view
+test_set/images/209.jpg,courtyard
+test_set/images/210.jpg,palazzo ruccelai: façade
+test_set/images/211.jpg,palazzo ruccelai: façade
+test_set/images/212.jpg,palazzo ruccelai: façade (detail)
+test_set/images/213.jpg,palazzo ruccelai: façade (detail)
+test_set/images/214.jpg,self-portrait
+test_set/images/215.jpg,façade of the tempietto
+test_set/images/216.jpg,apse of the tempietto
+test_set/images/217.jpg,view of the tempietto
+test_set/images/218.jpg,tempio malatestiano: façade
+test_set/images/219.jpg,tempio malatestiana: façade
+test_set/images/220.jpg,adoration of the child with angel
+test_set/images/221.jpg,virgin and child
+test_set/images/222.jpg,virgin and child
+test_set/images/223.jpg,visitation
+test_set/images/224.jpg,annunciation
+test_set/images/225.jpg,birth of christ
+test_set/images/226.jpg,circumcision
+test_set/images/227.jpg,visitation
+test_set/images/228.jpg,view of campo santi giovanni e paolo
+test_set/images/229.jpg,san giuseppe di castello
+test_set/images/230.jpg,portrait of maría anna josefa taking vow
+test_set/images/231.jpg,red hartebeest and blackbuck
+test_set/images/232.jpg,red hartebeest
+test_set/images/233.jpg,red-flanked duiker
+test_set/images/234.jpg,blackbuck
+test_set/images/235.jpg,red hartebeest and mountain coati
+test_set/images/236.jpg,mountain coati
+test_set/images/237.jpg,blue-headed quail-dove
+test_set/images/238.jpg,specimens of nature
+test_set/images/239.jpg,grape harvest girl
+test_set/images/240.jpg,portrait of an architect
+test_set/images/241.jpg,satire on romantic suicide
+test_set/images/242.jpg,view of the façade
+test_set/images/243.jpg,façade
+test_set/images/244.jpg,interior of the loggia
+test_set/images/245.jpg,annunciation
+test_set/images/246.jpg,crucifixion
+test_set/images/247.jpg,crucifixion (detail)
+test_set/images/248.jpg,madonna and child
+test_set/images/249.jpg,pietà
+test_set/images/250.jpg,bust of bishop ulpiano volpi
+test_set/images/251.jpg,beheading of st paul
+test_set/images/254.jpg,bust of pope innocent x
+test_set/images/255.jpg,laudivio zacchia
+test_set/images/257.jpg,monument of pope leo xi
+test_set/images/260.jpg,st john the evangelist
+test_set/images/261.jpg,st mary magdalene
+test_set/images/266.jpg,bust of donna olimpia maidalchini
+test_set/images/267.jpg,sleep
+test_set/images/268.jpg,general view
+test_set/images/269.jpg,general view
+test_set/images/270.jpg,the meeting of leo i and attila
+test_set/images/271.jpg,the meeting of leo i and attila
+test_set/images/276.jpg,scenes from the life of christ
+test_set/images/277.jpg,the goodbyes of alcestis
+test_set/images/278.jpg,the goodbyes of alcestis
+test_set/images/279.jpg,the goodbyes of alcestis (detail)
+test_set/images/280.jpg,the death of alcestis
+test_set/images/281.jpg,child from abruzzo
+test_set/images/282.jpg,pierre guillaume frédéric le play
+test_set/images/284.jpg,landscape with the finding of moses
+test_set/images/285.jpg,river landscape
+test_set/images/286.jpg,river landscape
+test_set/images/287.jpg,view of the salone
+test_set/images/288.jpg,view of the salone
+test_set/images/289.jpg,the banquet of syphax
+test_set/images/290.jpg,titus quinctius flamininus's speech before the achaeans
+test_set/images/291.jpg,lunette fresco (detail)
+test_set/images/292.jpg,plan for the decoration
+test_set/images/293.jpg,allegory of human life
+test_set/images/294.jpg,annunciation
+test_set/images/295.jpg,the body of christ with two angels
+test_set/images/296.jpg,allegory of the christian church
+test_set/images/297.jpg,women on a terrace
+test_set/images/298.jpg,portrait of a woman
+test_set/images/299.jpg,portrait of a noble woman
+test_set/images/300.jpg,"portrait of bianca cappello, second wife of francesco i de' medici"
+test_set/images/301.jpg,portrait of francesco i de' medici
+test_set/images/302.jpg,portrait of tommaso de' bardi
+test_set/images/303.jpg,portrait of a young man
+test_set/images/304.jpg,the preaching of st john the baptist
+test_set/images/305.jpg,st peter walking on the water
+test_set/images/306.jpg,pearl fishers
+test_set/images/307.jpg,susanna and the elders
+test_set/images/308.jpg,fresco decoration (detail)
+test_set/images/309.jpg,fresco decoration (detail)
+test_set/images/310.jpg,venus and cupid
+test_set/images/311.jpg,judith with the head of holofernes
+test_set/images/312.jpg,judith with the head of holofernes
+test_set/images/313.jpg,judith with the head of holofernes
+test_set/images/314.jpg,judith with the head of holofernes
+test_set/images/315.jpg,judith with the head of holofernes (detail)
+test_set/images/316.jpg,uriel standing in the sun
+test_set/images/317.jpg,reading from homer
+test_set/images/318.jpg,tibullus at delias house
+test_set/images/319.jpg,roman art lover
+test_set/images/320.jpg,women of amphissa
+test_set/images/321.jpg,on the steps of the capitol
+test_set/images/322.jpg,tomb of martin vázquez
+test_set/images/324.jpg,extensive wooded landscape with cephalus and procris
+test_set/images/325.jpg,the flight into egypt
+test_set/images/326.jpg,skating during carnival
+test_set/images/327.jpg,winter landscape
+test_set/images/328.jpg,"winter landscape in the fôret de soignes, with the flight into egypt"
+test_set/images/329.jpg,view of vienna from the prater
+test_set/images/330.jpg,landscape with satyr family
+test_set/images/331.jpg,landscape with path
+test_set/images/332.jpg,danubian landscape
+test_set/images/333.jpg,susanna in the bath and the stoning of the elders
+test_set/images/334.jpg,the battle of alexander
+test_set/images/335.jpg,the battle of alexander (detail)
+test_set/images/336.jpg,the battle of alexander (detail)
+test_set/images/337.jpg,lovers
+test_set/images/338.jpg,loth and his daughters
+test_set/images/339.jpg,diptych
+test_set/images/340.jpg,saint george in the forest
+test_set/images/341.jpg,rest on the flight into egypt
+test_set/images/342.jpg,rest on the flight into egypt (detail)
+test_set/images/343.jpg,nativity
+test_set/images/344.jpg,communion of the apostles
+test_set/images/345.jpg,schöne maria
+test_set/images/346.jpg,christ on the cross between mary and st john
+test_set/images/347.jpg,christ on the cross between mary and st john (detail)
+test_set/images/348.jpg,christ on the cross
+test_set/images/349.jpg,christ on the cross (detail)
+test_set/images/350.jpg,christ on the cross (detail)
+test_set/images/351.jpg,christ taking leave of his mother
+test_set/images/352.jpg,mary with the child
+test_set/images/353.jpg,the birth of the virgin
+test_set/images/354.jpg,crucifixion
+test_set/images/355.jpg,portrait of a woman
+test_set/images/356.jpg,christ in the garden of gethsemane
+test_set/images/357.jpg,the arrest of christ
+test_set/images/358.jpg,the flagellation of christ
+test_set/images/359.jpg,the resurrection of christ
+test_set/images/360.jpg,the entombment
+test_set/images/361.jpg,st florian taking leave of the monastery
+test_set/images/362.jpg,the martyrdom of st florian
+test_set/images/363.jpg,the beautiful virgin of regensburg
+test_set/images/365.jpg,large fir
+test_set/images/366.jpg,st george
+test_set/images/367.jpg,cup and cover
+test_set/images/368.jpg,view of the chapel
+test_set/images/369.jpg,view of the chapel
+test_set/images/370.jpg,view of the chapel
+test_set/images/371.jpg,view of the altar wall
+test_set/images/372.jpg,façade of the oratory
+test_set/images/373.jpg,scenes on the entry wall
+test_set/images/374.jpg,adoration of the magi
+test_set/images/375.jpg,adoration of the magi (detail)
+test_set/images/376.jpg,crucifixion
+test_set/images/377.jpg,two scenes on the northeast wall
+test_set/images/378.jpg,st george slays the dragon
+test_set/images/379.jpg,st george baptizes the king and his family (detail)
+test_set/images/380.jpg,the beheading of st george
+test_set/images/381.jpg,two scenes on the southwest wall
+test_set/images/382.jpg,the beheading of st catherine
+test_set/images/383.jpg,the funeral of st lucy
+test_set/images/384.jpg,the funeral of st lucy (detail)
+test_set/images/385.jpg,view of the cappella di san giacomo
+test_set/images/386.jpg,crucifixion
+test_set/images/387.jpg,crucifixion
+test_set/images/388.jpg,crucifixion (detail)
+test_set/images/389.jpg,scenes from the life of st james
+test_set/images/390.jpg,king ramiro summons the crown council
+test_set/images/391.jpg,virgin being worshipped by members of the cavalli family
+test_set/images/392.jpg,"alchitrof, emperor of ethiopia"
+test_set/images/393.jpg,portrait of christopher columbus
+test_set/images/394.jpg,adoration of the shepherds
+test_set/images/395.jpg,the four seasons paying homage to chronos
+test_set/images/396.jpg,the immaculate conception
+test_set/images/397.jpg,rest on the flight to egypt
+test_set/images/398.jpg,exterior view
+test_set/images/399.jpg,exterior view
+test_set/images/402.jpg,"isabel de braganza, queen of spain"
+test_set/images/403.jpg,certosa: façade
+test_set/images/404.jpg,certosa: façade
+test_set/images/405.jpg,façade of the church (detail)
+test_set/images/406.jpg,exterior
+test_set/images/407.jpg,christoph fugger
+test_set/images/408.jpg,goldsmith jörg zürer of augsburg
+test_set/images/409.jpg,portrait of the cosmographer sebastien münster
+test_set/images/410.jpg,portrait of matthäus schwarz
+test_set/images/411.jpg,portrait of felicitas seiler
+test_set/images/412.jpg,portrait of a young man
+test_set/images/413.jpg,portrait of a young woman
+test_set/images/414.jpg,frontispiece
+test_set/images/415.jpg,venus
+test_set/images/416.jpg,the wedded
+test_set/images/417.jpg,rudolf von arthaber with his children
+test_set/images/418.jpg,emperor franz i of austria in his coronation robes
+test_set/images/419.jpg,likeness of a girl
+test_set/images/420.jpg,portrait of a young girl
+test_set/images/421.jpg,maiden with a straw hat
+test_set/images/422.jpg,girl in yellow hat
+test_set/images/423.jpg,countess nákó
+test_set/images/424.jpg,portrait of princess marie franziska von liechtenstein aged two
+test_set/images/425.jpg,self-portrait
+test_set/images/426.jpg,portrait of count istván széchenyi
+test_set/images/427.jpg,portrait of a gentleman with a sword
+test_set/images/428.jpg,portrait of a gentlemen in blue jacket
+test_set/images/429.jpg,joseph in the pharaoh's palace
+test_set/images/430.jpg,juno receiving the head of argos
+test_set/images/431.jpg,portrait of a lady
+test_set/images/432.jpg,jael and sisera
+test_set/images/433.jpg,venus and adonis
+test_set/images/434.jpg,venus and adonis (detail)
+test_set/images/435.jpg,venus and adonis
+test_set/images/436.jpg,venus and adonis
+test_set/images/437.jpg,venus and adonis (detail)
+test_set/images/438.jpg,venus and adonis
+test_set/images/439.jpg,bacchus and ariadne
+test_set/images/440.jpg,virgin and child
+test_set/images/441.jpg,flora and zephyr
+test_set/images/442.jpg,papermaking (from the book of trades)
+test_set/images/443.jpg,casting type in hot metal (from the book of trades)
+test_set/images/444.jpg,typesetting and inking (from the book of trades)
+test_set/images/445.jpg,cutting a woodblock (from the book of trades)
+test_set/images/446.jpg,bookbinding (from the book of trades)
+test_set/images/447.jpg,falcon
+test_set/images/448.jpg,owl
+test_set/images/449.jpg,fountain of juno (lower figures)
+test_set/images/450.jpg,fountain of juno (upper figures)
+test_set/images/451.jpg,parnassus
+test_set/images/452.jpg,leda with the swan
+test_set/images/453.jpg,mars gravidus
+test_set/images/454.jpg,fountain of neptune
+test_set/images/455.jpg,fountain of neptune
+test_set/images/456.jpg,fountain of neptune
+test_set/images/457.jpg,the fountain of neptune
+test_set/images/458.jpg,fountain of neptune
+test_set/images/459.jpg,the fountain of neptune (detail)
+test_set/images/460.jpg,the fountain of neptune (detail)
+test_set/images/461.jpg,goddess opi
+test_set/images/462.jpg,ops
+test_set/images/463.jpg,tomb of giovanni buoncampagni
+test_set/images/464.jpg,venus
+test_set/images/465.jpg,victory
+test_set/images/466.jpg,allegory of winter
+test_set/images/467.jpg,palazzo ducale: cortile degli svizzeri
+test_set/images/468.jpg,palazzo ducale: cortile degli svizzeri (detail)
+test_set/images/469.jpg,palazzo pitti: façade
+test_set/images/470.jpg,palazzo pitti: courtyard
+test_set/images/471.jpg,palazzo pitti: courtyard
+test_set/images/472.jpg,palazzo pitti: courtyard (detail)
+test_set/images/473.jpg,ponte santa trinità
+test_set/images/475.jpg,dispute in a brothel
+test_set/images/476.jpg,sunlight in the blue room. helga ancher knitting in her grandmother's room
+test_set/images/477.jpg,"the artist's mother, anna hedvig brøndum"
+test_set/images/478.jpg,portrait of gioacchino rossini
+test_set/images/479.jpg,"the capture of fort saint louis, martinique"
+test_set/images/480.jpg,an english 3rd-rate ship of the line in three positions
+test_set/images/481.jpg,self-portrait
+test_set/images/482.jpg,shipping in a calm sea off the coast
+test_set/images/483.jpg,shipping on the thames off deptford
+test_set/images/484.jpg,"bearing of the cross, crucifixion, descent into hell (north wall)"
+test_set/images/485.jpg,crucifixion (detail)
+test_set/images/486.jpg,crucifixion (detail)
+test_set/images/487.jpg,crucifixion (detail)
+test_set/images/488.jpg,bearing of the cross
+test_set/images/489.jpg,bearing of the cross (detail)
+test_set/images/490.jpg,descent into hell
+test_set/images/491.jpg,descent into hell (detail)
+test_set/images/492.jpg,the church as the path to salvation (east wall)
+test_set/images/493.jpg,the church as the path to salvation (east wall)
+test_set/images/494.jpg,the church as the path to salvation (east wall)
+test_set/images/495.jpg,the church as the path to salvation (east wall)
+test_set/images/496.jpg,the church as the path to salvation (detail)
+test_set/images/497.jpg,the church as the path to salvation (detail)
+test_set/images/498.jpg,the church as the path to salvation (detail)
+test_set/images/499.jpg,the church as the path to salvation (detail)
+test_set/images/500.jpg,the church as the path to salvation (detail)
+test_set/images/501.jpg,the church as the path to salvation (detail)
+test_set/images/502.jpg,the church as the path to salvation (detail)
+test_set/images/503.jpg,the church as the path to salvation (detail)
+test_set/images/504.jpg,the church as the path to salvation (detail)
+test_set/images/505.jpg,the church as the path to salvation (detail)
+test_set/images/506.jpg,the church as the path to salvation (detail)
+test_set/images/507.jpg,the church as the path to salvation (detail)
+test_set/images/508.jpg,the triumph of st thomas aquinas (west wall)
+test_set/images/509.jpg,the triumph of st thomas aquinas (detail)
+test_set/images/510.jpg,the triumph of st thomas aquinas (detail)
+test_set/images/511.jpg,the triumph of st thomas aquinas (detail)
+test_set/images/512.jpg,the triumph of st thomas aquinas (detail)
+test_set/images/513.jpg,the triumph of st thomas aquinas (detail)
+test_set/images/514.jpg,"scenes from the life of st peter martyr (south wall, detail)"
+test_set/images/515.jpg,vault frescoes
+test_set/images/516.jpg,resurrection (north vault cell)
+test_set/images/517.jpg,salvation of peter (navicella) (east vault cell)
+test_set/images/518.jpg,miracle of pentecost (west vault cell)
+test_set/images/519.jpg,ascension of christ (south vault cell)
+test_set/images/520.jpg,the virgin and child with ten saints
+test_set/images/521.jpg,the virgin and child with ten saints (detail)
+test_set/images/522.jpg,the virgin and child with ten saints (detail)
+test_set/images/523.jpg,the virgin and child with ten saints (detail)
+test_set/images/524.jpg,the virgin and child with ten saints (detail)
+test_set/images/525.jpg,the virgin and child with ten saints (detail)
+test_set/images/526.jpg,crucifixion
+test_set/images/527.jpg,madonna and child with saints
+test_set/images/528.jpg,madonna and child with saints (detail)
+test_set/images/529.jpg,scenes from the life of st rainerus (detail)
+test_set/images/530.jpg,polyptych
+test_set/images/531.jpg,polyptych
+test_set/images/532.jpg,polyptych
+test_set/images/533.jpg,crucifixion and saints
+test_set/images/534.jpg,st john the baptist
+test_set/images/535.jpg,god the father
+test_set/images/536.jpg,st john the evangelist
+test_set/images/537.jpg,st mark
+test_set/images/538.jpg,dormition of the virgin
+test_set/images/539.jpg,dormition of the virgin
+test_set/images/540.jpg,dormition of the virgin
+test_set/images/541.jpg,deposition
+test_set/images/542.jpg,madonna and child with saints
+test_set/images/543.jpg,last supper and stories of christ's passion
+test_set/images/544.jpg,stories of christ's passion (detail)
+test_set/images/545.jpg,last supper and stories of christ's passion
+test_set/images/546.jpg,stories of christ's passion
+test_set/images/547.jpg,stories of christ's passion (synopia)
+test_set/images/548.jpg,resurrection (detail)
+test_set/images/549.jpg,last supper
+test_set/images/550.jpg,last supper (detail)
+test_set/images/551.jpg,last supper (detail)
+test_set/images/552.jpg,last supper (detail)
+test_set/images/553.jpg,last supper (detail)
+test_set/images/554.jpg,last supper (detail)
+test_set/images/555.jpg,last supper (detail)
+test_set/images/556.jpg,last supper (detail)
+test_set/images/557.jpg,last supper (architectural detail)
+test_set/images/558.jpg,christ in the sepulchre with two angels
+test_set/images/559.jpg,christ in the sepulchre with two angels (synopia)
+test_set/images/560.jpg,famous persons cycle (reconstruction)
+test_set/images/561.jpg,view of the former loggia
+test_set/images/562.jpg,famous persons: eve
+test_set/images/563.jpg,madonna and child
+test_set/images/564.jpg,famous persons: pippo spano
+test_set/images/565.jpg,famous persons: niccolò acciaiuoli
+test_set/images/566.jpg,famous persons: farinata degli uberti
+test_set/images/567.jpg,famous persons: queen esther
+test_set/images/568.jpg,famous persons: the cumean sibyl
+test_set/images/569.jpg,famous persons: queen tomyris
+test_set/images/570.jpg,famous persons: dante allighieri
+test_set/images/571.jpg,famous persons: giovanni boccaccio
+test_set/images/572.jpg,famous persons: francesco petrarca
+test_set/images/573.jpg,our lady of the assumption with sts miniato and julian
+test_set/images/574.jpg,crucifixion
+test_set/images/575.jpg,the youthful david
+test_set/images/576.jpg,"the holy trinity, st jerome and two saints"
+test_set/images/577.jpg,st julian and the redeemer
+test_set/images/578.jpg,interior view
+test_set/images/579.jpg,crucifixion
+test_set/images/580.jpg,crucifixion (detail)
+test_set/images/581.jpg,portrait of a gentleman
+test_set/images/582.jpg,monument to niccolò da tolentino
+test_set/images/583.jpg,monument to niccolò da tolentino
+test_set/images/584.jpg,the annunciation
+test_set/images/585.jpg,punishment of the gamblers
+test_set/images/586.jpg,journey of the magi
+test_set/images/587.jpg,miraculous cure by relics of filippo benizzi
+test_set/images/588.jpg,view of the atrium
+test_set/images/589.jpg,birth of the virgin
+test_set/images/590.jpg,baptism of the people
+test_set/images/591.jpg,study for the baptism of the people
+test_set/images/592.jpg,the sermon of john the baptist
+test_set/images/593.jpg,charity
+test_set/images/594.jpg,madonna of the harpies
+test_set/images/595.jpg,madonna of the harpies
+test_set/images/596.jpg,madonna of the harpies (detail)
+test_set/images/597.jpg,portrait of the artist's wife
+test_set/images/598.jpg,"madonna and child with st elisabeth, the infant st john, and two angels"
+test_set/images/599.jpg,madonna and child with the young st john
+test_set/images/600.jpg,"madonna and child with sts catherine, elizabeth and john the baptist"
+test_set/images/601.jpg,portrait of a lady with a book
+test_set/images/602.jpg,portrait of a woman with a basket of spindles
+test_set/images/603.jpg,portrait of baccio bandinelli
+test_set/images/604.jpg,christ the redeemer
+test_set/images/605.jpg,tobias and the angel with st leonard and donor
+test_set/images/606.jpg,portrait of a young man
+test_set/images/607.jpg,triumph of caesar
+test_set/images/608.jpg,triumph of caesar
+test_set/images/609.jpg,triumph of caesar (detail)
+test_set/images/610.jpg,triumph of caesar (detail)
+test_set/images/611.jpg,head of a young man
+test_set/images/612.jpg,holy family
+test_set/images/613.jpg,stories of joseph
+test_set/images/614.jpg,stories of joseph
+test_set/images/615.jpg,lamentation of christ
+test_set/images/616.jpg,the last supper
+test_set/images/617.jpg,the last supper
+test_set/images/618.jpg,the last supper (detail)
+test_set/images/619.jpg,the last supper (detail)
+test_set/images/620.jpg,the last supper (detail)
+test_set/images/621.jpg,last supper (study)
+test_set/images/622.jpg,pietà with saints
+test_set/images/623.jpg,pietà with saints (detail)
+test_set/images/624.jpg,the sacrifice of abraham
+test_set/images/625.jpg,disputation on the trinity
+test_set/images/626.jpg,head of a man in profile facing left
+test_set/images/627.jpg,madonna della scala
+test_set/images/628.jpg,assumption of the virgin
+test_set/images/629.jpg,assumption of the virgin (detail)
+test_set/images/630.jpg,assumption of the virgin
+test_set/images/631.jpg,st john the baptist
+test_set/images/632.jpg,st john the baptist
+test_set/images/633.jpg,holy family (borgherini)
+test_set/images/634.jpg,holy family (barberini)
+test_set/images/635.jpg,virgin and child in glory with six saints
+test_set/images/636.jpg,virgin and child in glory with six saints (detail)
+test_set/images/637.jpg,st james
+test_set/images/638.jpg,madonna del sacco (madonna with the sack)
+test_set/images/639.jpg,self-portrait
+test_set/images/640.jpg,annunciation
+test_set/images/641.jpg,annunciation (detail)
+test_set/images/642.jpg,annunciation (detail)
+test_set/images/643.jpg,sts michael and john gualbert
+test_set/images/644.jpg,sts john the baptist and bernardo degli uberti
+test_set/images/645.jpg,assumption of the virgin (poppi altarpiece)
+test_set/images/646.jpg,coronation of the virgin
+test_set/images/647.jpg,coronation of the virgin
+test_set/images/648.jpg,christ on the road to calvary
+test_set/images/649.jpg,st paul
+test_set/images/650.jpg,virgin and child
+test_set/images/651.jpg,ascension of christ
+test_set/images/652.jpg,ascension of christ (detail)
+test_set/images/653.jpg,st francis of assisi
+test_set/images/654.jpg,st francis of assisi (detail)
+test_set/images/655.jpg,st james the greater
+test_set/images/656.jpg,st james the greater (detail)
+test_set/images/657.jpg,st peter
+test_set/images/658.jpg,the triumph of caesar (frontispiece)
+test_set/images/659.jpg,the triumph of caesar (section 1)
+test_set/images/660.jpg,the triumph of caesar (section 3)
+test_set/images/661.jpg,the triumph of caesar (section 4)
+test_set/images/662.jpg,the triumph of caesar (section 5)
+test_set/images/663.jpg,the triumph of caesar (section 6)
+test_set/images/664.jpg,the triumph of caesar (section 7)
+test_set/images/665.jpg,the triumph of caesar (section 8)
+test_set/images/666.jpg,the triumph of caesar (section 9)
+test_set/images/667.jpg,edge of the forest
+test_set/images/668.jpg,winter at barbizon
+test_set/images/669.jpg,dish
+test_set/images/670.jpg,dish
+test_set/images/671.jpg,arcadian landscape
+test_set/images/672.jpg,arcadian landscape
+test_set/images/677.jpg,an extensive landscape
+test_set/images/678.jpg,an extensive landscape
+test_set/images/679.jpg,italianate coastal landscape
+test_set/images/680.jpg,tiber bridge in rome
+test_set/images/681.jpg,view of the roman campagna
+test_set/images/682.jpg,harbour scene
+test_set/images/683.jpg,view of tivoli and the roman campagna
+test_set/images/684.jpg,jerónimo de cevallos
+test_set/images/685.jpg,view of the ballroom
+test_set/images/686.jpg,the sacrifice of iphigenia
+test_set/images/687.jpg,the abduction of helen
+test_set/images/688.jpg,the abduction of helen (detail)
+test_set/images/689.jpg,view of the ceiling in the ballroom
+test_set/images/690.jpg,ceiling fresco in the ballroom (detail)
+test_set/images/691.jpg,coriolanus accepting the command of the roman troops
+test_set/images/692.jpg,curtius rufus on his horse
+test_set/images/693.jpg,scipio combating the carthaginians
+test_set/images/694.jpg,mucius scaevola before porsenna
+test_set/images/695.jpg,the immaculate conception
+test_set/images/696.jpg,lesson in astronomy
+test_set/images/697.jpg,st roch in glory
+test_set/images/698.jpg,faith
+test_set/images/699.jpg,charity
+test_set/images/700.jpg,san domenico altarpiece
+test_set/images/701.jpg,san domenico altarpiece (detail)
+test_set/images/702.jpg,san domenico altarpiece (detail)
+test_set/images/703.jpg,san domenico altarpiece (detail)
+test_set/images/704.jpg,san domenico altarpiece (detail)
+test_set/images/705.jpg,predella of the san domenico altarpiece
+test_set/images/706.jpg,predella of the san domenico altarpiece (detail)
+test_set/images/707.jpg,st nicholas of bari
+test_set/images/708.jpg,st michael
+test_set/images/709.jpg,st mark
+test_set/images/710.jpg,st matthew
+test_set/images/711.jpg,a bishop saint
+test_set/images/712.jpg,the annunciation
+test_set/images/713.jpg,the annunciation
+test_set/images/714.jpg,the annunciation (detail)
+test_set/images/715.jpg,the annunciation (detail)
+test_set/images/716.jpg,the annunciation (detail)
+test_set/images/717.jpg,the annunciation (detail)
+test_set/images/718.jpg,linaioli tabernacle (shutters closed)
+test_set/images/719.jpg,linaioli tabernacle (shutters open)
+test_set/images/720.jpg,linaioli tabernacle: st john the baptist
+test_set/images/721.jpg,linaioli tabernacle: st john the evangelist
+test_set/images/722.jpg,linaioli tabernacle (detail)
+test_set/images/723.jpg,linaioli tabernacle (detail)
+test_set/images/724.jpg,st peter preaching in the presence of st mark
+test_set/images/725.jpg,adoration of the magi
+test_set/images/726.jpg,the martyrdom of st mark
+test_set/images/727.jpg,last judgment
+test_set/images/728.jpg,last judgment (detail)
+test_set/images/729.jpg,last judgment (detail)
+test_set/images/730.jpg,last judgment (detail)
+test_set/images/731.jpg,last judgment (detail)
+test_set/images/732.jpg,last judgment (detail)
+test_set/images/733.jpg,annunciation
+test_set/images/734.jpg,annunciation
+test_set/images/735.jpg,annunciation (detail)
+test_set/images/736.jpg,annunciation (detail)
+test_set/images/737.jpg,annunciation (detail)
+test_set/images/738.jpg,birth of the virgin
+test_set/images/739.jpg,marriage of the virgin
+test_set/images/740.jpg,visitation
+test_set/images/741.jpg,adoration of the magi
+test_set/images/742.jpg,the presentation of christ in the temple
+test_set/images/743.jpg,death of the virgin
+test_set/images/744.jpg,the virgin consigns the habit to st dominic
+test_set/images/745.jpg,cortona polyptych
+test_set/images/746.jpg,cortona polyptych (central panel)
+test_set/images/747.jpg,cortona polyptych (detail)
+test_set/images/748.jpg,cortona polyptych (detail)
+test_set/images/749.jpg,cortona polyptych (detail)
+test_set/images/750.jpg,cortona polyptych (detail)
+test_set/images/751.jpg,cortona polyptych (detail)
+test_set/images/752.jpg,cortona polyptych (detail)
+test_set/images/753.jpg,virgin with child and four saints (detail of the predella)
+test_set/images/754.jpg,virgin with child and four saints (detail of the predella)
+test_set/images/755.jpg,virgin with child and four saints (detail of the predella)
+test_set/images/756.jpg,perugia altarpiece (in modern frame)
+test_set/images/757.jpg,perugia altarpiece
+test_set/images/758.jpg,perugia altarpiece (central panel)
+test_set/images/759.jpg,perugia altarpiece (left panel)
+test_set/images/760.jpg,perugia altarpiece (right panel)
+test_set/images/761.jpg,the story of st nicholas
+test_set/images/762.jpg,story of st nicholas: birth of st nicholas (detail)
+test_set/images/763.jpg,the story of st nicholas: giving dowry to three poor girls
+test_set/images/764.jpg,the story of st nicholas: st nicholas saves the ship
+test_set/images/765.jpg,the story of st nicholas: st nicholas saves the ship (detail)
+test_set/images/766.jpg,the story of st nicholas: st nicholas saves the ship (detail)
+test_set/images/767.jpg,the story of st nicholas
+test_set/images/768.jpg,the story of st nicholas: the liberation of three innocents
+test_set/images/769.jpg,the story of st nicholas: the death of the saint
+test_set/images/770.jpg,san marco altarpiece
+test_set/images/771.jpg,san marco altarpiece (detail)
+test_set/images/772.jpg,the healing of palladia by saint cosmas and saint damian
+test_set/images/773.jpg,saint cosmas and saint damian before lisius
+test_set/images/774.jpg,saint cosmas and saint damian salvaged
+test_set/images/775.jpg,saint cosmas and saint damian condamned
+test_set/images/776.jpg,entombment
+test_set/images/777.jpg,saint cosmas and saint damian crucifixed and stoned
+test_set/images/778.jpg,beheading of saint cosmas and saint damian
+test_set/images/779.jpg,sepulchring of saint cosmas and saint damian
+test_set/images/780.jpg,the healing of justinian by saint cosmas and saint damian
+test_set/images/781.jpg,st jerome
+test_set/images/782.jpg,st roche
+test_set/images/783.jpg,st bernard
+test_set/images/784.jpg,st romuald
+test_set/images/785.jpg,st peter martyr
+test_set/images/786.jpg,st thomas aquinas
+test_set/images/787.jpg,deposition from the cross (pala di santa trinità)
+test_set/images/788.jpg,deposition from the cross (detail)
+test_set/images/789.jpg,deposition from the cross (detail)
+test_set/images/790.jpg,deposition from the cross (detail)
+test_set/images/791.jpg,deposition from the cross (detail)
+test_set/images/792.jpg,deposition from the cross (detail)
+test_set/images/793.jpg,deposition from the cross (detail)
+test_set/images/794.jpg,deposition from the cross (detail)
+test_set/images/795.jpg,deposition from the cross (detail)
+test_set/images/796.jpg,noli me tangere (cell 1)
+test_set/images/797.jpg,lamentation over christ (cell 2)
+test_set/images/798.jpg,view of cell 3
+test_set/images/799.jpg,annunciation (cell 3)
+test_set/images/800.jpg,nativity (cell 5)
+test_set/images/801.jpg,transfiguration (cell 6)
+test_set/images/802.jpg,mocking of christ (cell 7)
+test_set/images/803.jpg,resurrection of christ and women at the tomb (cell 8)
+test_set/images/804.jpg,coronation of the virgin (cell 9)
+test_set/images/805.jpg,presentation of jesus in the temple (cell 10)
+test_set/images/806.jpg,crucifixion with st dominic (cell 17)
+test_set/images/807.jpg,crucifixion with st dominic flagellating himself (cell 20)
+test_set/images/808.jpg,"crucifixion with the virgin, mary magdalene and st dominic (cell 25)"
+test_set/images/809.jpg,christ in limbo (cell 31)
+test_set/images/810.jpg,institution of the eucharist (cell 35)
+test_set/images/811.jpg,nailing of christ to the cross (cell 36)
+test_set/images/812.jpg,crucifixion with mourners and sts dominic and thomas aquinas (cell 37)
+test_set/images/813.jpg,"crucifixion with the virgin and sts cosmas, john the evangelist and peter martyr (cell 38)"
+test_set/images/814.jpg,adoration of the magi and man of sorrows (cell 39)
+test_set/images/815.jpg,corridor of the north dormitory
+test_set/images/816.jpg,the annunciation
+test_set/images/817.jpg,the annunciation (detail)
+test_set/images/818.jpg,the annunciation (detail)
+test_set/images/819.jpg,crucifixion and saints
+test_set/images/820.jpg,crucifixion and saints (detail)
+test_set/images/821.jpg,crucifixion and saints (detail)
+test_set/images/822.jpg,saint dominic adoring the crucifixion
+test_set/images/823.jpg,saint dominic adoring the crucifixion
+test_set/images/824.jpg,sacra conversazione
+test_set/images/825.jpg,sacra conversazione (detail)
+test_set/images/826.jpg,sacra conversazione (detail)
+test_set/images/827.jpg,sacra conversazione (detail)
+test_set/images/828.jpg,view of the convent of san marco
+test_set/images/829.jpg,view of the convent of san marco
+test_set/images/830.jpg,st peter martyr
+test_set/images/831.jpg,plan of the upper floor in the convento di san marco
+test_set/images/832.jpg,plan of the ground floor in the convento di san marco
+test_set/images/833.jpg,view of the chapel
+test_set/images/834.jpg,west wall of the chapel
+test_set/images/835.jpg,lunette of the west wall
+test_set/images/836.jpg,st peter consacrates stephen as deacon
+test_set/images/837.jpg,st peter consacrates stephen as deacon (detail)
+test_set/images/838.jpg,st stephen distributing alms
+test_set/images/839.jpg,st stephen distributing alms (detail)
+test_set/images/840.jpg,st peter consacrates st lawrence as deacon
+test_set/images/841.jpg,north wall of the chapel
+test_set/images/842.jpg,lunette of the north wall
+test_set/images/843.jpg,the sermon of st stephen
+test_set/images/844.jpg,dispute before sanhedrin
+test_set/images/845.jpg,scenes on the north wall
+test_set/images/846.jpg,st sixtus entrusts the church treasures to lawrence
+test_set/images/847.jpg,st lawrence receives the treasures of the church (detail)
+test_set/images/848.jpg,st lawrence receives the treasures of the church (detail)
+test_set/images/849.jpg,st lawrence distributing alms
+test_set/images/850.jpg,st lawrence distributing alms (detail)
+test_set/images/851.jpg,scenes from the lives of sts lawrence and stephen
+test_set/images/852.jpg,east wall of the chapel
+test_set/images/853.jpg,lunette of the east wall
+test_set/images/854.jpg,st stephen being led to his martyrdom
+test_set/images/855.jpg,the stoning of st stephen
+test_set/images/856.jpg,the stoning of st stephen (detail)
+test_set/images/857.jpg,condemnation of st lawrence by the emperor valerian
+test_set/images/858.jpg,st lawrence on trial (detail)
+test_set/images/859.jpg,martyrdom of st lawrence
+test_set/images/860.jpg,view of the chapel vaulting
+test_set/images/861.jpg,view of the chapel vaulting
+test_set/images/862.jpg,view of the chapel vaulting
+test_set/images/863.jpg,scenes from the life of christ
+test_set/images/864.jpg,scenes from the life of christ
+test_set/images/865.jpg,scenes from the life of christ
+test_set/images/866.jpg,paintings for the armadio degli argenti (detail)
+test_set/images/867.jpg,paintings for the armadio degli argenti
+test_set/images/868.jpg,mystic wheel (the vision of ezekiel)
+test_set/images/869.jpg,annunciation
+test_set/images/870.jpg,flight into egypt
+test_set/images/871.jpg,massacre of the innocents
+test_set/images/872.jpg,communion of the apostles
+test_set/images/873.jpg,circumcision
+test_set/images/874.jpg,annunciation and adoration of the magi
+test_set/images/875.jpg,madonna of the star
+test_set/images/876.jpg,st peter martyr altarpiece
+test_set/images/877.jpg,st peter martyr altarpiece (detail)
+test_set/images/878.jpg,predella of the st peter martyr altarpiece (detail)
+test_set/images/879.jpg,predella of the st peter martyr altarpiece (detail)
+test_set/images/880.jpg,predella of the st peter martyr altarpiece (detail)
+test_set/images/881.jpg,compagnia di san francesco altarpiece
+test_set/images/882.jpg,trial by fire
+test_set/images/883.jpg,trial by fire (detail)
+test_set/images/884.jpg,receiving the stigmata
+test_set/images/885.jpg,meeting of st francis and st dominic
+test_set/images/886.jpg,apparition of st francis at arles
+test_set/images/887.jpg,lamentation over st francis
+test_set/images/888.jpg,coronation of the virgin
+test_set/images/889.jpg,coronation of the virgin (detail)
+test_set/images/890.jpg,coronation of the virgin (detail)
+test_set/images/891.jpg,the coronation of the virgin
+test_set/images/892.jpg,the coronation of the virgin (detail)
+test_set/images/893.jpg,marriage of the virgin
+test_set/images/894.jpg,dormition of the virgin
+test_set/images/895.jpg,annunciation
+test_set/images/896.jpg,annalena altarpiece (without predella)
+test_set/images/897.jpg,annalena altarpiece
+test_set/images/898.jpg,annalena altarpiece (detail)
+test_set/images/899.jpg,bosco ai frati altarpiece
+test_set/images/900.jpg,bosco ai frati altarpiece
+test_set/images/901.jpg,bosco ai frati altarpiece (detail)
+test_set/images/902.jpg,triptych: the last judgment
+test_set/images/903.jpg,adoration of the magi
+test_set/images/904.jpg,"crucifixion with the virgin, john the evangelist, and mary magdelene"
+test_set/images/905.jpg,madonna of humility
+test_set/images/906.jpg,madonna of humility
+test_set/images/907.jpg,madonna and child
+test_set/images/908.jpg,crucifixion
+test_set/images/909.jpg,madonna and child of the grapes
+test_set/images/910.jpg,penitent st jerome
+test_set/images/911.jpg,reliquary tabernacle
+test_set/images/912.jpg,virgin and child enthroned with twelve angels
+test_set/images/913.jpg,archangel gabriel annunciate
+test_set/images/914.jpg,virgin mary annunciate
+test_set/images/915.jpg,virgin and child with sts dominic and catherine of alexandria
+test_set/images/916.jpg,virgin and child
+test_set/images/917.jpg,the apostle st james the great freeing the magician hermogenes
+test_set/images/918.jpg,the naming of st john the baptist
+test_set/images/919.jpg,the naming of st john the baptist (detail)
+test_set/images/920.jpg,the naming of st john the baptist (detail)
+test_set/images/921.jpg,the burial of the virgin and the reception of her soul in heaven
+test_set/images/922.jpg,the meeting of sts dominic and francis of assisi
+test_set/images/923.jpg,saint anthony the abbot tempted by a lump of gold
+test_set/images/924.jpg,lamentation over christ
+test_set/images/925.jpg,lamentation over christ (detail)
+test_set/images/926.jpg,the virgin of humility
+test_set/images/927.jpg,st francis receiving the stigmata
+test_set/images/928.jpg,the adoration of the magi
+test_set/images/929.jpg,adoration of the magi (detail)
+test_set/images/930.jpg,"crucified christ with the virgin, st john the evangelist and cardinal juan de torquemada"
+test_set/images/931.jpg,the lamentation over st francis
+test_set/images/932.jpg,the lamentation over st francis (detail)
+test_set/images/933.jpg,the lamentation over st francis (detail)
+test_set/images/934.jpg,crucified christ
+test_set/images/935.jpg,madonna and child
+test_set/images/936.jpg,virgin and child
+test_set/images/937.jpg,virgin and child with sts dominic and thomas aquinas
+test_set/images/938.jpg,virgin and child with sts dominic and thomas aquinas (detail)
+test_set/images/939.jpg,virgin and child with sts dominic and thomas aquinas (detail)
+test_set/images/940.jpg,missal 558 (folio 67v)
+test_set/images/941.jpg,missal 558 (folio 21)
+test_set/images/942.jpg,madonna of mercy with kneeling friars
+test_set/images/943.jpg,the annunciation in an initial r
+test_set/images/944.jpg,missal 558 (folio 41v)
+test_set/images/945.jpg,king david
+test_set/images/946.jpg,christ the judge
+test_set/images/947.jpg,christ the judge
+test_set/images/948.jpg,prophets
+test_set/images/949.jpg,crucifixion with st dominic
+test_set/images/950.jpg,king david playin a psaltery
+test_set/images/951.jpg,institution of the eucharist
+test_set/images/952.jpg,head of a cleric
+test_set/images/953.jpg,musical company in an elegant interior
+test_set/images/954.jpg,scene in a court of inn
+test_set/images/955.jpg,small female portrait
+test_set/images/956.jpg,the archangel gabriel
+test_set/images/957.jpg,rural scene
+test_set/images/958.jpg,bouquet of flowers with animals
+test_set/images/959.jpg,crest of doge marcantonio memmo
+test_set/images/960.jpg,couple in the street
+test_set/images/961.jpg,the western railway leaving paris
+test_set/images/963.jpg,amphitrite
+test_set/images/964.jpg,ceres
+test_set/images/967.jpg,nativity
+test_set/images/968.jpg,interior decoration
+test_set/images/969.jpg,self-portrait
+test_set/images/970.jpg,portrait of sofonisba anguissola
+test_set/images/971.jpg,bernardino campi painting sofonisba anguissola
+test_set/images/972.jpg,portrait of the artist's sisters playing chess
+test_set/images/973.jpg,asdrubale bitten by a crawfish
+test_set/images/974.jpg,old woman studying the alphabet with a laughing girl
+test_set/images/975.jpg,portrait of minerva anguissola
+test_set/images/976.jpg,portrait of a nun
+test_set/images/977.jpg,profile portrait of a young woman
+test_set/images/978.jpg,self-portrait
+test_set/images/979.jpg,self-portrait
+test_set/images/980.jpg,self-portrait at the easel
+test_set/images/981.jpg,self-portrait
+test_set/images/982.jpg,self-portrait playing the spinet
+test_set/images/983.jpg,avenue de clichy - five o'clock in the evening
+test_set/images/984.jpg,girl reading a newspaper
+test_set/images/985.jpg,the theatre foyer
+test_set/images/986.jpg,allegory of the crowning of ferdinando ii de' medici
+test_set/images/987.jpg,the flight into egypt
+test_set/images/988.jpg,virgin in glory flanked by sts john the baptist and stephen
+test_set/images/990.jpg,august
+test_set/images/991.jpg,september
+test_set/images/992.jpg,november
+test_set/images/994.jpg,descent from the cross
+test_set/images/995.jpg,deposition from the cross (detail)
+test_set/images/996.jpg,david
+test_set/images/997.jpg,david
+test_set/images/998.jpg,ezekiel
+test_set/images/1000.jpg,sea battle between dutch and spanish boats
