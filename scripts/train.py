@@ -1,7 +1,7 @@
 import pickle, argparse
-from models import EncoderCNN, DecoderRNN
+from scripts.models import EncoderCNN, DecoderRNN
 import torch, math
-from tqdm import tqdm
+from tqdm.notebook import tqdm
 import torch.nn as nn
 
 def get_args():
@@ -22,15 +22,18 @@ def load_objects(project_path):
     vocab_path = '{}vocab/vocab.pkl'.format(project_path)
     dataloader_path = '{}dataloader/dataloader.pkl'.format(project_path)
 
+    print('Loading vocab')
     with open(vocab_path, 'rb') as file:
         vocab = pickle.load(file)
 
+    print('Loading Dataloader')
     with open(dataloader_path, 'rb') as file:
         dataloader = pickle.load(file)
-
+    
+    print('Done!')
     return vocab, dataloader
 
-def train(train_dataloader, args, vocab):
+def train(train_dataloader, args, vocab, num_epochs):
 
     encoder_model = EncoderCNN(300)
     decoder_model = DecoderRNN(embed_size=300, hidden_size=512, vocab_size=len(vocab))
@@ -52,9 +55,8 @@ def train(train_dataloader, args, vocab):
     decoder_model.train()
     vocab_size = len(vocab)
     num = 1
-    num_epochs = 10
 
-    for epoch in range(0, num_epochs):
+    for epoch in tqdm(range(0, num_epochs),total=num_epochs):
         
         
         
@@ -84,9 +86,8 @@ def train(train_dataloader, args, vocab):
 def output_model(trained_model, path):
 
     output_path = '{}/trained_model/model.pt'.format(path)
-
+    torch.save(trained_model.state_dict(), output_path)
     
-
 def main():
     args = get_args()
     print('Loading vocab and dataloader from {}'.format(args.project_path))

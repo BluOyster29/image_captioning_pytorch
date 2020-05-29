@@ -1,11 +1,11 @@
 import pandas as pd, numpy as np, torch, argparse
 from PIL import Image
-from tqdm import tqdm
+from tqdm.notebook import tqdm
 from torchvision import transforms
 from torch.nn.utils.rnn import pad_sequence,pad_packed_sequence
 from torch.utils.data import DataLoader
 import torch, os, pickle
-from image_dataset import CustomDataset
+from scripts.image_dataset import CustomDataset
 
 def get_args():
 
@@ -34,18 +34,27 @@ def get_args():
 
     return p.parse_args()
 
-def pre_process(image):
+def pre_process(image, pretrained):
 
-    pre_process = transforms.Compose([ 
-                  transforms.Resize(256),                          # smaller edge of image resized to 256
-                  transforms.RandomCrop(224),                      # get 224x224 crop from random location
-                  transforms.RandomHorizontalFlip(),               # horizontally flip image with probability=0.5
-                
-                  transforms.ToTensor(),                           # convert the PIL Image to a tensor
-                  transforms.Normalize((0.485, 0.456, 0.406),      # normalize image for pre-trained model
-                                      (0.229, 0.224, 0.225))
-                                      ])
+    if pretrained == True:
+        pre_process = transforms.Compose([ 
+                      transforms.Resize(256),                          # smaller edge of image resized to 256
+                      transforms.RandomCrop(224),                      # get 224x224 crop from random location
+                      transforms.RandomHorizontalFlip(),               # horizontally flip image with probability=0.5
 
+                      transforms.ToTensor(),                           # convert the PIL Image to a tensor
+                      transforms.Normalize((0.485, 0.456, 0.406),      # normalize image for pre-trained model
+                                          (0.229, 0.224, 0.225))
+                                          ])
+
+    elif pretrained == False:
+        pre_process = transforms.Compose([ 
+                      transforms.Resize(224),
+                      transforms.ToTensor().
+                      transforms.Normalize((0.485, 0.456, 0.406),      # normalize image for pre-trained model
+                                          (0.229, 0.224, 0.225))
+                                          ])
+        
     return pre_process(image)
 
 def reconstruct_image(input_image):
@@ -55,12 +64,9 @@ def reconstruct_image(input_image):
     img2 = transforms.ToPILImage(mode='RGB')(z)
     return img2
 
-def resize_images(df, args):
+def resize_images(args, output):
 
-    df = pd.read_csv(df)
-
-    if args.dataset_size == None:
-        args.dataset_size = len(df)
+    df = pd.read_csv(args.meta_data, sep='\t')
 
     if os.path.exists(args.output_dir) == False:
         os.mkdir(args.output_dir)
@@ -78,7 +84,7 @@ def resize_images(df, args):
     
     print('Processing Artwork\n')
 
-    for num, i in tqdm(enumerate(zip(df['id'], df['title'])), total=args.dataset_size):
+    for num, i in tqdm(enumerate(zip(df['FILE'], df['TITLE'])), total=args.dataset_size):
         
         if num == args.dataset_size:
             break
@@ -89,7 +95,7 @@ def resize_images(df, args):
 
             captions.append(i[1])
             
-            if args.output_dir:
+            if args.output_dir and output == True:
                 
                 img2 = reconstruct_image(resized_image)
                 img2.save('{}{}'.format(image_folder, i[0]))
@@ -99,7 +105,8 @@ def resize_images(df, args):
 
                 image_paths.append('{}{}'.format(args.data_dir,i[0]))
 
-        except:
+        except Exception as e:
+            print('something Wrong: {}'.format(e))
             failed_path.append('{}{}'.format(args.data_dir,i[0]))
 
             continue
@@ -159,7 +166,9 @@ def encode(titles, vocab):
 def pickle_data(object, path, keyword):
 
     output_folder = '{}{}/'.format(path,keyword)
-    os.mkdir(output_folder)
+    
+    if os.path.exists(output_folder) == False:
+        os.mkdir(output_folder)
 
     output_path = '{}{}.pkl'.format(output_folder, keyword)
 
@@ -182,7 +191,7 @@ def output_csv(images, captions, image_paths, path):
     
 def main():
     args = get_args()
-    images, captions, image_paths = resize_images(args.meta_data, args)
+    images, captions, image_paths = resize_images(args)
     tokenized_titles = [tokenize(i) for i in captions]
     vocab = gen_vocab(tokenized_titles) 
     output_csv(images,captions,image_paths, args.output_dir)
